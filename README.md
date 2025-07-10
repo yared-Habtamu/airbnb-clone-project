@@ -5,8 +5,8 @@ This is a full-stack clone of the popular accommodation booking platform AirBnB.
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript (React)
-- **Backend**: (To be determined)
-- **Database**: (To be determined)
+- **Backend**: 
+- **Database**:
 - **Version Control**: Git and GitHub
 - **Design Tools**: Figma
 
